@@ -1,0 +1,2 @@
+# IoT-enabled-landslide-monitoring
+In this work we present an innovative landslide monitoring system that leverages state-of-the-art IoT technologies. The system consists of a set of autonomous sensing devices equipped with a sensor suit specifically tailored for monitoring landslides. The devices take sensory measurements at frequent intervals - while operating at a very low duty cycle - and transmit them over the SigFox network to a data server powered by ELK stack for curation and visualization. 
